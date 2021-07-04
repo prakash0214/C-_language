@@ -1,3 +1,5 @@
+// write a prgm to prime number?
+
 #include<stdio.h>
 int main()
 {
